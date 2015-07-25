@@ -1,0 +1,17 @@
+#The ip address to have the HTTP server bind to.
+bind_ip: 0.0.0.0
+#The port to have the HTTP server to bind to.
+bind_port: 8080
+
+#Set to true if the HTTP chat interface requires authentication.
+require_authentication: false
+
+#Credentials for the HTTP authentication.
+username: admin
+password: password
+
+#The realm to display for HTTP authentication.
+realm: 'Minecraft Server Chat'
+
+#Set to true if you want to show commands being issued.
+show_commands: false

@@ -1,0 +1,4 @@
+name: RemoteChat
+version: 1.0
+main: me.johnnywoof.remotechat.bungee.RemoteChat
+author: Johnnywoof
